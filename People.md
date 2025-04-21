@@ -2,7 +2,7 @@
 layout: page
 ---
 <div class="pure-u-1 copy" style="display: flex; align-items: flex-start;">
-  <img src="/assets/JM.jpg" alt="Headshot of Jacob Moutouama" style="width: 150px; margin-right: 20px;" />
+  <img src="/assets/Moutouama.jpg" alt="Headshot of Jacob Moutouama" style="width: 200px; margin-right: 20px;" />
   
   <div>
     <u>Jacob Moutouama</u><br>

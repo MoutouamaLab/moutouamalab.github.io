@@ -8,7 +8,7 @@ layout: page
     <u>Jacob Moutouama</u><br>
     <em>Principal Investigator</em>
     <p>
-      Jacob fell in love with ecology during a Tropical Biology Association course in Madagascar. He completed his Ph.D. at the University of Tennessee, Knoxville, and worked as a postdoctoral research associate at Rice University before joining UBC. Jacob uses a combination of demographic data, manipulative lab and field experiments, and mathematical models to address conservation and management challenges in a changing world.
+      Jacob discovered his passion for ecology during a Tropical Ecology course in Madagascar. After earning his Ph.D. from the University of Tennessee at Knoxville, USA, and completing a postdoc at Rice University, USA, he joined UBC. His research combine observation, experiments, and modeling to tackle real-world conservation challenges.
     </p>
   </div>
 </div>
